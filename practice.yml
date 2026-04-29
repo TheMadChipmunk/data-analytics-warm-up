@@ -1,0 +1,14 @@
+# My first YAML file
+
+project:
+  name: warm_up_practice
+  version: '1.0.0'
+  author : "Hélène SCHWEITZER"
+
+tools:
+  - name: dbt
+    purpose: "SQL transformation framework"
+  - name: duckdb
+    purpose: "Local analytical database"
+  - name: vscode
+    purpose: "Code editor with integrated terminal"
